@@ -1,4 +1,4 @@
-Aim : Aim: To read a matrix from the console and check whether it is symmetric or not.
+Aim :  To read a matrix from the console and check whether it is symmetric or not.
 //Algorithm
 step 1 : start
 step 2 : Read Rows and Columns from user as input and initialize a two dimensional matrix 
