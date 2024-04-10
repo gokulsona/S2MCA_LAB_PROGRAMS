@@ -4,9 +4,8 @@
 Step 1: Start
 Step 2: Assign the values to the variable str1 and str2
 Step 3: Check if str1 is equal to str2
-Step 4: If they are equal, echo "both the strings are equal."
-Step 5: If they are not equal, echo "strings are not equal."
-Step 6: Stop
+Step 4: If they are equal, echo "strings are equal." else "not equal"
+Step 5: Stop
 
 #Program
 #!/bin/bash
