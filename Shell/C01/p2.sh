@@ -1,5 +1,4 @@
-#Aim :shell program to read a number(it should be from 1 to 2)using the case statement. Print the output accordingly based on the number that read from the
-keyboard.
+#Aim :shell program to read a number (it should be from 1 to 2) using the case statement. Print the output accordingly based on the number that read from the keyboard.
 
 #Algorithm
 Step 1: Start
