@@ -8,7 +8,6 @@ Step 4: If it is, echo "string1 is less than string2." else "not"
 Step 5: Stop
 
 #Program
-Prgrm5
 #!/bin/bash
 read -p "enter the first string : " x
 read -p "enter the second string : " y
