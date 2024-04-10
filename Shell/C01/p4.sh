@@ -11,10 +11,8 @@ Step 7 : Stop
  
 #Program
 #!/bin/bash
-echo "enter the first number:"
-read x
-echo "enter the second number:"
-read y
+read -p "Enter first number : " x
+read -p "Enter second number : " y
 select i in Add Sub Mul Quit
 do
 case $i in
@@ -27,10 +25,8 @@ esac
 done
 
 #Output
-enter the first number:
-20
-enter the second number:
-10
+enter the first number : 20
+enter the second number : 10
 1) Add
 2) Sub
 3) Mul
