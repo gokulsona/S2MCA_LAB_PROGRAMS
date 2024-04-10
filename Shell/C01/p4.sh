@@ -31,5 +31,5 @@ enter the second number : 10
 2) Sub
 3) Mul
 4) Quit
-#? 1
+1
 30
