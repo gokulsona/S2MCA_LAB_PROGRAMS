@@ -5,7 +5,7 @@ Step 1: Start
 Step 2: read first and second number from the user and assing it into variables x, y
 Step 3: Print "read operator" and read user input assigning it to variable z
 Step 4: Check the value of z and perform the corresponding arithmetic operation
-Step 5: Output the result of the arithmetic operation
+Step 5: Print proper result
 Step 6: Stop
 	
 #Program
