@@ -4,9 +4,8 @@
 Step 1: Start
 Step 2: Prompt the user to enter the first and second string and store it in variable x and y
 Step 3: Check if string x is less than string y
-Step 4: If it is, echo "string1 is less than string2."
-Step 5: If it is not, echo "string2 is less than string1."
-Step 6: Stop
+Step 4: If it is, echo "string1 is less than string2." else "not"
+Step 5: Stop
 
 #Program
 Prgrm5
