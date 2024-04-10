@@ -2,7 +2,7 @@
 
 #Algorithm
 Step 1: Start
-Step 2: Define function find_largest and find_smallest to find, the largest andthe smallest number among given inputs.
+Step 2: Define function find_largest and find_smallest to find, the largest and the smallest number among given inputs.
 Step 3: Read three numbers from the user.
 Step 4: Call find_largest and find_smallest function with the three numbers as arguments and store the result.
 Step 5: Print the largest number and smallest number
