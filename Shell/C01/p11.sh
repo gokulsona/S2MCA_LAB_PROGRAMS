@@ -1,4 +1,4 @@
-#Aim : Write a shell program to repeating elements.
+#Aim : Write a shell program to find repeating elements.
 
 #Algorithm
 Step 1: Start
