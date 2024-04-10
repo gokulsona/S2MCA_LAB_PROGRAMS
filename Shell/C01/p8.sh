@@ -4,13 +4,9 @@
 Step 1 : Start
 Step 2 : Define a function named factorial to calculate the factorial of a given number.
 Step 3 : Check if the input number is 0; if so, output 1 as the factorial.
-Step 4 : If the input number is not 0, initialize variables i and result.
-Step 5 : Use a loop to iterate from i down to 1, updating result in each iteration.
-Step 6 : Output the calculated factorial.
-Step 7 : Prompt the user to enter a number to calculate its factorial and read the input number.
-Step 8 : Call the factorial function with the input number as an argument and store the result.
-Step 9 : Print the factorial of the input number.
-Step 10: Stop
+Step 4 : if not 0, Use a loop to iterate from i down to 1, updating result in each iteration.
+Step 5 : Output the calculated factorial.
+Step 6 : Stop
 
 #Program
 #!/bin/bash
