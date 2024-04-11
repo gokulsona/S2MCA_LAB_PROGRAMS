@@ -6,7 +6,7 @@ step 2 : read first and second number from the user and store it in x, y
 Step 3 : Display the menu options "Add", "Sub", "Mul", and "Quit"
 Step 4 : Read user selection and perform corresponding operation
 step 5 : If user selects "Quit", exit the loop
-Step 6 : Repeat steps 6 to 11 until the user chooses to Quit
+Step 6 : Repeat steps 4 and 5 until the user chooses to Quit
 Step 7 : Stop  
  
 #Program
