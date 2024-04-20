@@ -3,7 +3,7 @@
 2.ls             : list directory contents. it displays the files and directories in the current directory.
 3.pwd            : print working directory. it displays the path of the current working directory.
 4.mkdir          : make directory. it creates a new directory.
-5.touch          : create a new file or update the acces and modification times of an existing file.
+5.touch          : create a new file or update the access and modification times of an existing file.
 6.cp             : copy files and directories from one location to another.
 7.mv             : move or rename files and driectories.
 8.rm             : remove files or directories. be caution with this command, as it is permanently delete files and directories.
