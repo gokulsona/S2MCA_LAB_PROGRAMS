@@ -1,0 +1,21 @@
+#Basic shell commands
+1.cd             : change directory.Used to change the current working directory.
+2.ls             : list directory contents. it displays the files and directories in the current directory.
+3.pwd            : print working directory. it displays the path of the current working directory.
+4.mkdir          : make directory. it creates a new directory.
+5.touch          : create a new file or update the acces and modification times of an existing file.
+6.cp             : copy files and directories from one location to another.
+7.mv             : move or rename files and driectories.
+8.rm             : remove files or directories. be caution with this command, as it is permanently delete files and directories.
+9.cat            : concatenate and display the content of files.
+10.more or less  : display the contents of file or page at a time. useful for viewing large files..
+11.head          : dislpay the first few lines of file.
+12.tail          : dislpay the last few lines of file.
+13.grep          : search for patterns in file.
+14.chmod         : change the permission.
+15.chown         : change the ownership.
+16.ps            : display rteh information about action processes.
+17.kill          : termiante process by sending signals.
+18.echo          : display a line of text.
+19.history       : display command history.
+20.man           : display manual page for commands.
