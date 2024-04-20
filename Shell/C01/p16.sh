@@ -1,6 +1,6 @@
 #Aim : write a shell program to perform basic file operation
 #Algorithm
-    Start: Display the menu with options to perform file operations.
+    Step 1: Start
     Step 2: Display the menu with options to perform file operations & Read the user's choice of operation.
     Step 3: Perform the operation based on the user's choice:
         For each operation:
