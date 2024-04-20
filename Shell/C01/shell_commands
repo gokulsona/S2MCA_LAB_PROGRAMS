@@ -15,7 +15,7 @@
 14.chmod         : change the permission.
 15.chown         : change the ownership.
 16.ps            : display the information about action processes.
-17.kill          : termiante process by sending signals.
+17.kill          : terminate process by sending signals.
 18.echo          : display a line of text.
 19.history       : display command history.
 20.man           : display manual page for commands.
