@@ -4,11 +4,9 @@
 Step 1: Start
 Step 2: Define the overload class with three overloaded area methods.
 Step 3: In the main method, create an instance of the overload class and a Scanner object for user input.
-Step 4: Prompt the user to enter the radius of a circle and read the input.
-Step 5: Prompt the user to enter the side of a square and read the input.
-Step 6: Prompt the user to enter the length and breadth of a rectangle and read the inputs.
-Step 7: Calculate and print the areas of the circle, square, and rectangle using the corresponding area methods.
-Step 8: Stop
+Step 4: Prompt the user to enter the radius of a circle, ide of a square,length and breadth of a rectangle and read the input.
+Step 5: Calculate and print the areas of the circle, square, and rectangle using the corresponding area methods.
+Step 6: Stop
 
 #Program
 import java.util.*;
