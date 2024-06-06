@@ -5,10 +5,9 @@ using inheritance.
 Step 1: Start
 Step 2: Define the Publisher class with a constructor to initialize the publisher's name.
 Step 3: Define the Book class with a constructor to initialize the book's name and publisher.
-Step 4: Define the Literature class that extends Book and includes a Littype attribute. Implement a display method to show the book details.
-Step 5: Define the Fiction class that extends Book and includes a Littype attribute. Implement a display method to show the book details.
-Step 6: In the main method of InheritanceBookExample, create instances of Publisher, Literature, and Fiction, and call their display methods.
-Step 7: Stop
+Step 4: Define the Literature and Fiction class that extends Book and includes a Littype attribute. Implement a display method to show the book details.
+Step 5: In the main method of InheritanceBookExample, create instances of Publisher, Literature, and Fiction, and call their display methods.
+Step 6: Stop
 
 #Program
 class Publisher
